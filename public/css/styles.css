@@ -118,6 +118,7 @@ header .form .input{
     outline: none;
     color: #666;
     padding: 5px;
+    border: none !important;
 }
 
 header .form .submit{
@@ -127,6 +128,7 @@ header .form .submit{
     margin-left: 3px;
     padding: 5px;
     height: 100%;
+    border: none !important;
 }
 
 div.burger-menu{
