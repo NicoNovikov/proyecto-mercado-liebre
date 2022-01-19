@@ -379,11 +379,13 @@ footer section:hover .icon {
         justify-content: space-between;
         align-items: center;
     }
-    
     .enviar,
-.borrar {
+    .borrar {
     width: 50%;
     margin: 3px;
+}
+.form-login .enviar {
+    width: 100%;
 }
     .main-header-top-bar {
     display: flex;
